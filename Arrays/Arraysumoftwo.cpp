@@ -4,6 +4,7 @@ using namespace std;
 int main(){
     int i,j,n,sum=0,N,m,k=0,a[100],b[100],c[100];
     cin>>n;
+    //insertion
     for(i=0;i<n;++i){
         cin>>a[i];
     }
